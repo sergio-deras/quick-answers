@@ -1,0 +1,5 @@
+How to provision an EC2 with updates and a Web file using provisioner 
+
+https://github.com/sergio-deras/terraform-associate/tree/master/section3-hol2
+
+IN addition, it uses the public key to create and connect, as well as SSM to configure a valid AMI
